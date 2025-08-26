@@ -1,2 +1,3 @@
 # sujal-new
-my info
+my name is sujal 
+and  im from bihar
